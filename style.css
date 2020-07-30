@@ -1,0 +1,15 @@
+h1, p {
+  font-family: Lato;
+}
+
+.svg-eye-reg {
+  width: 15px;
+  height: 10px;
+  fill: red;
+}
+
+.svg-light-bulb-reg {
+  width: 10px;
+  height: 15px;
+  fill: green;
+}
